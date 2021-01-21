@@ -346,6 +346,10 @@ h4 {
     bottom: -19px;
 }
 
+.hulot .col-33 {
+	min-width: auto;
+}
+
 .review-container {
 	background: #f7f7f7;
 	overflow: hidden;
